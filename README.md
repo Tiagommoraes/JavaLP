@@ -17,3 +17,7 @@ Para executar o projeto, siga estas etapas:
 - Compile e execute o arquivo principal LoteriaLotofacil.java.
 - A interface gráfica do jogo será exibida, permitindo que você faça suas apostas e realize sorteios.
 
+- 
+
+https://github.com/Tiagommoraes/JavaLP/assets/142947043/af65e3b6-b6a9-4906-a365-6e67368b3fb5
+
